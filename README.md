@@ -1,4 +1,4 @@
-# Job Listing Scraper (Practice Version)
+# Job Listing Scraper
 
 A beginner web scraper that collects listings from a public website, extracts
 four fields per listing, and saves them to a CSV file. It is built on
